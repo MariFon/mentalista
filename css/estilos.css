@@ -1,0 +1,19 @@
+body{
+    background-color: #000;
+    color: #fff;
+    background-image: url('../imagens/fundo.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.container{
+    text-align: center ;
+    padding: 20px;
+    height: 100vh;
+}
+
+.titulo{
+    font-size: 30px;
+    margin: 10px;
+}
